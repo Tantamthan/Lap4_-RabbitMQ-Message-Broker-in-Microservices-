@@ -1,0 +1,12 @@
+E:\project Wed\Messaging.Common\Messaging.Common\bin\Debug\net8.0\Messaging.Common.deps.json
+E:\project Wed\Messaging.Common\Messaging.Common\bin\Debug\net8.0\Messaging.Common.dll
+E:\project Wed\Messaging.Common\Messaging.Common\bin\Debug\net8.0\Messaging.Common.pdb
+E:\project Wed\Messaging.Common\Messaging.Common\obj\Debug\net8.0\Messaging.Common.csproj.AssemblyReference.cache
+E:\project Wed\Messaging.Common\Messaging.Common\obj\Debug\net8.0\Messaging.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\project Wed\Messaging.Common\Messaging.Common\obj\Debug\net8.0\Messaging.Common.AssemblyInfoInputs.cache
+E:\project Wed\Messaging.Common\Messaging.Common\obj\Debug\net8.0\Messaging.Common.AssemblyInfo.cs
+E:\project Wed\Messaging.Common\Messaging.Common\obj\Debug\net8.0\Messaging.Common.csproj.CoreCompileInputs.cache
+E:\project Wed\Messaging.Common\Messaging.Common\obj\Debug\net8.0\Messaging.Common.dll
+E:\project Wed\Messaging.Common\Messaging.Common\obj\Debug\net8.0\refint\Messaging.Common.dll
+E:\project Wed\Messaging.Common\Messaging.Common\obj\Debug\net8.0\Messaging.Common.pdb
+E:\project Wed\Messaging.Common\Messaging.Common\obj\Debug\net8.0\ref\Messaging.Common.dll

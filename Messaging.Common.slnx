@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Messaging.Common/Messaging.Common.csproj" />
+  <Project Path="NotificationService/NotificationService.csproj" />
+  <Project Path="OrderService/OrderService.csproj" />
+  <Project Path="ProductService/ProductService.csproj" />
+</Solution>
